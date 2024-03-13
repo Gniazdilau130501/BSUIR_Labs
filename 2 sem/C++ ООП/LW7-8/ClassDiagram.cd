@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="transrport" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAEABAABAAEAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="legkovie" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIACA=</HashCode>
+      <FileName>legkovie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="avtobusi" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>avtobusi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salon" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAQAAAAAAAgCQCAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>salon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BY" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAgAAAQAAAAAAAAAQgAAAAAIACAAAAAAAAAAAA=</HashCode>
+      <FileName>BY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="microavtobus" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAARAAAAQAAAAAAAAAQAAAAAAAQAAAABAAAAAAAA=</HashCode>
+      <FileName>microavtobus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="electrobus" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAIAAQAAAAAAAAAQAAAAAAQAAAAgAAAEAAAAA=</HashCode>
+      <FileName>electrobus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shablon&lt;A&gt;" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgEAAgAAACAEAAIIAgAAAAAAAIAIBAQIAAAACAAA=</HashCode>
+      <FileName>shablon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exeption" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAAAAAAAAAAAACAAAAAAABgAAAAAAAAA=</HashCode>
+      <FileName>Exeptoin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="text_files&lt;A&gt;" Collapsed="true">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
