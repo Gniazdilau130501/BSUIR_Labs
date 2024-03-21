@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0336CH 0336DH CODE               
+ 03370H 0346DH 000FEH CODE2              
+ 03470H 10DD6H 0D967H DATA               
+ 10DE0H 13F66H 03187H PICTURES           
+
+Program entry point at 0000:0000
+Warning: No stack
+
