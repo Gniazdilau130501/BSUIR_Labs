@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(138,22): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(167,31): warning C4129: :
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(167,31): warning C4129: :
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(167,31): warning C4129: I: неизвестная escape-последовательность
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(167,31): warning C4129: m: неизвестная escape-последовательность
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(181,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба_Гнездилова\Ииувм\IUWM6\IUWM6\Source.cpp(121,45): warning C4101: response: неиспользованная локальная переменная
+  IUWM6.vcxproj -> D:\учеба_Гнездилова\Ииувм\IUWM6\x64\Debug\IUWM6.exe
