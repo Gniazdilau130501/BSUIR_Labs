@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gryzovie">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAAAAAAAABAAEAAAgAgAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>gryzovie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="transrport">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAABAAAAAEAAAABAAEAARAAAEEAAAAgAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="samosval">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAACAAAAAAiAAAAAARABAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>samosval.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="passag">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAAAgAAAAAAAAAAAAAQAAIAAAAAAAAIAIAAAAAA=</HashCode>
+      <FileName>passag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="avtobus">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAARAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>avtobus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tralik">
+    <Position X="14.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAKAAQAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAA=</HashCode>
+      <FileName>tralik.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
