@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LW4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Exeption.cpp
+  salon.cpp
+  shablon.cpp
+  Source.cpp
+  Создание кода...
+D:\учеба Гнездилова\проекты на с++\LW78\LW4\Exeption.cpp(75): warning C4172: возвращение адреса локальной или временной переменной : t_str
+  LW4.vcxproj -> D:\учеба Гнездилова\проекты на с++\LW78\x64\Debug\КП.exe
